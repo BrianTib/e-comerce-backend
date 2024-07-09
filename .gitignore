@@ -1,5 +1,7 @@
-node_modules
 .env
 .DS_Store
 requirements.md
+
+# NodeJS
+node_modules
 package-lock.json
